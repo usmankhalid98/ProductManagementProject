@@ -3,7 +3,7 @@
 **Role:** Product Manager  
 **Duration:** 4 weeks (MVP Phase)  
 **Project Type:** Independent Case Study  
-**Web App Link:** https://usmankhalidproductproject.com/ 
+**Web App Link:** https://usmankhalidproductproject.com/
 **Focus Areas:** Product Discovery, Planning, Agile Delivery, User Research, Prioritisation
 
 ---
